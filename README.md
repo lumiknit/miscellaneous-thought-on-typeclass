@@ -1,2 +1,2 @@
 # miscellaneous-thought-on-typeclass
-miscellaneous-thought-on-typeclass (in ko)
+[타입클래스에 대한 잡생각](MToTC.md)
